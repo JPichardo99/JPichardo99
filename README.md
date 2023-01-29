@@ -2,7 +2,7 @@
 <br>
 <samp>
     Hola! Soy Jesús Pichardo,
-    <br>👨‍🎓 Soy un estudiante de Ingeniería en sistemas computacionales.<br>
+    <br>👨‍🎓 Soy un estudiante de Ingeniería en sistemas computacionales con especialidad en industria 4.0.<br>
 </samp>
   <img src="https://raw.githubusercontent.com/JPichardo99/JPichardo99/main/killua-gif-perfil.gif" width="200"/>
 </p>
