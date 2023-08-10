@@ -1,5 +1,5 @@
 <samp>
-    Cantidad de visitantes
+    Profile Views
 </samp>
 <br/>
 <br/>
@@ -7,14 +7,14 @@
 <hr/>
 <p align="center">
 <samp>
-    Hola! Soy Jesús Pichardo,
-    <br>👨‍🎓 Soy un estudiante de Ingeniería en sistemas computacionales con especialidad en industria 4.0.<br>
+    Hi! I'm Jesús Pichardo,
+    <br> A computer systems engineer specializing in industry 4.0, web developer and app developer.<br>
 </samp>
   <img src="https://raw.githubusercontent.com/JPichardo99/JPichardo99/main/killua-gif-perfil.gif" width="200"/>
 </p>
 <hr/>
 <samp>
-    🛠 Lenguajes y herramientas
+    🛠 Languages and tools
 </samp>
 <br/>
 <br/>
@@ -49,13 +49,10 @@
 <br/>
 <hr/>
 <samp>
-    🙏 Puedes contactarme por
+    🙏 Connect with me
 </samp>
 <br/>
 <br/>
-<a href="https://twitter.com/j__pichardo__" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/jesús-alejandro-pichardo-buenrostro/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
