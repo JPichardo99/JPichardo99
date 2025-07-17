@@ -1,10 +1,3 @@
-<samp>
-    Profile Views
-</samp>
-<br/>
-<br/>
-<img src="https://profile-counter.glitch.me/JPichardo99/count.svg"/>
-<hr/>
 <p align="center">
 <samp>
     Hi! I'm Jesús Pichardo,
